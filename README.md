@@ -1,3 +1,1 @@
-# Tema 2 APD 2025
 
-CHORD in MPI
